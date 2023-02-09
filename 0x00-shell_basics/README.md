@@ -1,1 +1,1 @@
-a script to list all files with hiddens ones with currentdirectory and the parent of the working dire and the /boot directory in long format.
+a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory
