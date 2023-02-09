@@ -1,1 +1,1 @@
-a script that creates a symbolic link to /bin/ls, named __ls__ in the current working directory
+a script to copy all HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
