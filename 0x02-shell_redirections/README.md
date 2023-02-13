@@ -1,1 +1,1 @@
-a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+a script to redirect the reuslt of ls -la to file ls_cwd_content
