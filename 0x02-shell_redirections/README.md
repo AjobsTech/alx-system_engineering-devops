@@ -1,1 +1,1 @@
-Write a command that finds all empty files and directories in the current directory and all sub-directories.
+ a sript that lists all the files with a .gif extension in the current diretory and all its subdirectories.
