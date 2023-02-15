@@ -1,1 +1,1 @@
-Create a script that creates a new local variable. Name BEST and Value School
+a script that creates a new global variable with Name BEST Value School
