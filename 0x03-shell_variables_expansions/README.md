@@ -1,1 +1,1 @@
-a script that creates an alias with Name ls and Value rm*
+a script that prints hello user, where user is the current Linux user.
